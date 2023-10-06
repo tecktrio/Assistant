@@ -1,0 +1,1 @@
+{'command': [], 'label': ['train', 'lights on', 'lights on', 'train', 'lights off', 'search', 'lights on', 'lights off', 'search', 'status', 'status', 'status', 'status', 'status', 'calling', 'status']}
